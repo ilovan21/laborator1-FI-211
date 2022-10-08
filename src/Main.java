@@ -2,6 +2,7 @@ public class Main {
     static void metoda(int n,int p) {
         System.out.println(n+p);
     }
+    
     static void operatori(int a1,int b1) {
 
         System.out.println(a1++);
@@ -14,6 +15,7 @@ public class Main {
         System.out.println(a1 / b1);
         System.out.println(a1 % b1);
     }
+    
     public static void main(String[] args) {
         System.out.println("Hello World");
 
