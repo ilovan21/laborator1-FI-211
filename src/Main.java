@@ -26,7 +26,7 @@ public class Main {
         byte y=124;
         short q=-120;
 
-// operatori
+        // operatori
         System.out.println("Introduceti 1 numar");
         int a = 10;
         int b = 5;
@@ -56,6 +56,7 @@ public class Main {
             case 3:
                 varstaElev=13;
         }
+        
         System.out.println("Varsta elev:"+ varstaElev);
         metoda(40,70);
         }
